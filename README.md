@@ -1,4 +1,8 @@
 
+
+[![Build Status](https://alerickson.visualstudio.com/TestPipeline/_apis/build/status/TestPipeline-CI)](https://alerickson.visualstudio.com/TestPipeline/_build/latest?definitionId=1)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
@@ -29,3 +33,5 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
+
+
